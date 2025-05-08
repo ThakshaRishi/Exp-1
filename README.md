@@ -37,6 +37,8 @@ vi)Sequence Diagram
 
 # Communication Diagram
 
+![CommunicationDiagram1](https://github.com/user-attachments/assets/dab9790b-be35-4b50-ba66-89e2f7def7ee)
+
 
 # Package Diagram
 
